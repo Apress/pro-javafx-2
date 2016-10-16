@@ -1,0 +1,9 @@
+import visage.javafx.stage.Stage;
+import visage.javafx.scene.Scene;
+import visage.javafx.scene.control.Label;
+
+Stage {
+  Scene {
+    Label {text: "Hello Visage"}
+  }
+}
